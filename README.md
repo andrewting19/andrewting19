@@ -8,12 +8,7 @@ I'm Andrew: a junior UC Berkeley studying EECS. I like stonks, crypto, mechanica
 
 🎮 [Play to earn crypto games](https://docs.google.com/document/d/1V9JLjWBh7MFuwXu6qmsjTaB2vvhSvtrBkPGI3seZuPg/edit?usp=sharing)
 
-
-- 🏫 &nbsp; Learning Computer Security, Data Science, and Machine Learning for Music at UC Berkeley
-- 👨‍🏫 &nbsp; Teaching Cal's intro CS course, [CS61A](https://cs61a.org/), as a tutor and mentor
-- 💻 &nbsp; Building a full stack web app as a Software Developer in [Codebase](https://codebase.berkeley.edu/)
-- 💼 &nbsp; Working as Software Development Engineer Intern at &nbsp;<img src="https://img.shields.io/badge/-Amazon-FF9900?style=flat-square&logo=Amazon&logoColor=white"/>&nbsp; this summer
-- 🥁 &nbsp; Drumming whenever and wherever I can!
+💵 Startup stuff (top secret)
 
 ### Languages
 <p>
@@ -53,13 +48,3 @@ I'm Andrew: a junior UC Berkeley studying EECS. I like stonks, crypto, mechanica
   <a href="mailto:andrewting@berkeley.edu" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   
 </p>
-
-<!--
-  [`Website`](https://larynqi.com)
-  [`Resume`](http://links.larynqi.com/resume)
-  [`Meeting`](http://links.larynqi.com/meeting)
--->
-
-<!-- <a href="https://larynqi.com" target="_blank"><code>Website</code></a>
-
-<!-- Inspired by @JuanesLamilla! (https://github.com/JuanesLamilla/JuanesLamilla)
