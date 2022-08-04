@@ -8,8 +8,6 @@ I'm Andrew: a junior UC Berkeley studying EECS. I like stonks, crypto, mechanica
 
 🎮 [Play to earn crypto games](https://docs.google.com/document/d/1V9JLjWBh7MFuwXu6qmsjTaB2vvhSvtrBkPGI3seZuPg/edit?usp=sharing)
 
-💵 Startup stuff [(no longer top secret)](https://twitter.com/afantappie/status/1516178875402928138?s=20&t=sY2AN5_g06hoqfnRxtaBUQ)
-
 ### Languages
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
