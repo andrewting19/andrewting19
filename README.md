@@ -1,6 +1,6 @@
 # Hi! 👋
 
-I'm Andrew: a junior UC Berkeley studying EECS. I like stonks, crypto, mechanical keyboards, cats, dogs, kpop, chess, and cooking!
+I'm Andrew: a senior(!) UC Berkeley studying EECS. I like stonks, crypto, mechanical keyboards, cats, dogs, kpop, chess, and cooking!
 
 🚘 [Caravan](https://docs.google.com/document/d/13AgoN4eVp-VRyC_tSaSJift1CBq3YD5q04UhTOOuTQ8/edit)
 
