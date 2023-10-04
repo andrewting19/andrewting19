@@ -1,6 +1,6 @@
 # Hi! 👋
 
-I'm Andrew: a senior(!) at UC Berkeley studying EECS. I like stonks, crypto, mechanical keyboards, cats, dogs, kpop, chess, and cooking!
+I'm Andrew. I used to be a senior at UC Berkeley studying EECS, but now I'm a salaryman working at Uniswap Labs. I like GAMBA, LoL, stonks, crypto, mechanical keyboards, cats, dogs, kpop, chess, and cooking!
 
 🚘 [Caravan](https://docs.google.com/document/d/13AgoN4eVp-VRyC_tSaSJift1CBq3YD5q04UhTOOuTQ8/edit)
 
