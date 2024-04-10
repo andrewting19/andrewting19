@@ -17,7 +17,7 @@ I'm Andrew. I used to be a senior at UC Berkeley studying EECS, but now I'm a sa
   <img alt="SQL" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 </p>
 
-### Tools n stuff
+### Tools n Stuff
 <p>
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?logo=AmazonAWS&logoColor=white&style=flat-square" />
