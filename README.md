@@ -17,12 +17,11 @@ I'm Andrew. I used to be a senior at UC Berkeley studying EECS, but now I'm a sa
   <img alt="SQL" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 </p>
 
-### Tools and More
+### Tools n stuff
 <p>
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?logo=AmazonAWS&logoColor=white&style=flat-square" />
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white&style=flat-square" />
-  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white" /> 
   <img alt="pandas" src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white" />
 
