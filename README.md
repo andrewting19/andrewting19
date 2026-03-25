@@ -15,6 +15,9 @@ I'm Andrew. I used to be a salaryman working at Uniswap Labs, but now I'm unempl
 - Claude Code <3
 - Codex
 
+### Cool Projects
+- [andrewting.dev/pokemon](https://andrewting.dev/pokemon)
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=andrewting19&count_private=true&bg_color=60,CB218E,6617CB&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&show_icons=TRUE)
 
 ### Contact
