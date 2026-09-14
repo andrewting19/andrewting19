@@ -13,8 +13,7 @@ I'm Andrew. I used to be a salaryman working at Uniswap Labs, but now I'm unempl
 - [Claude Ting](https://github.com/andrewting19/claude-ting)
 - [Dev Sessions](https://github.com/andrewting19/dev-sessions)
 - [ting.sh](https://github.com/andrewting19/ting.sh)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=andrewting19&count_private=true&bg_color=60,CB218E,6617CB&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&show_icons=TRUE)
+- [Abliteration Station](https://github.com/andrewting19/abliteration-station)
 
 ### Contact
 <p>
