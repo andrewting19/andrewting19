@@ -1,6 +1,6 @@
 # Hi! 👋
 
-I'm Andrew. I used to be a salaryman working at Uniswap Labs, but now I'm unemployed working for myself running an undisclosed solo business. I like fishing, Codex, Claude, Claude Code, abliterated open source LLMs, GAMBA, LoL, stonks, crypto, mechanical keyboards, cats, dogs, kpop, chess, and cooking! I don't like AI slop.
+I'm Andrew. I used to be a salaryman working at Uniswap Labs, but now I work for myself running an undisclosed solo business. I like fishing, Codex, Claude, Claude Code, abliterated open source LLMs, GAMBA, LoL, stonks, crypto, mechanical keyboards, cats, dogs, kpop, chess, and cooking! I don't like AI slop.
 
 ### Languages
 
